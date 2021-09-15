@@ -1,8 +1,10 @@
 # opencvTesting
 Facial recognition testing with opencv
 
+First you should install -> pip install opencv-contrib-python 
+https://pypi.org/project/opencv-python/
 
-This repository contains 3 codes: 
+The repository contains 3 codes: 
 
 1. saveFaceData.py -> allows you to take a face from your camera and save this data in a folder 
 
