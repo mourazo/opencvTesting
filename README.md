@@ -1,5 +1,5 @@
 # opencvTesting
-facial recognition testing with opencv
+Facial recognition testing with opencv
 
 
 This repository contains 3 codes: 
